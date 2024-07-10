@@ -61,7 +61,6 @@ dependencies:
   firebase_messaging: ^14.9.2
   flutter_local_notifications: ^17.1.2
   flutter_dotenv: ^5.1.0
-  twilio_flutter: ^0.0.9
 #  flutter_launcher_icons: ^0.13.1
 flutter_lints: ^2.0.0
 
