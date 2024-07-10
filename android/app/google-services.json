@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449261236794",
+    "project_id": "ambulancesewa-b1f26",
+    "storage_bucket": "ambulancesewa-b1f26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449261236794:android:3d49ae8a1dc538a6853b03",
+        "android_client_info": {
+          "package_name": "com.example.ambulancesewa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAggwDW9PWnCzlMbV6ZJpvc6942xGK6mx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
