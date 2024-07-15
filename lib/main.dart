@@ -27,9 +27,9 @@ Future<void> main() async {
   await Firebase.initializeApp(
     options: FirebaseOptions(
       apiKey: dotenv.env['AIzaSyCqj-IOPAmA8EBYdZmfeHziysnWElv_71U']!,
-      appId: dotenv.env['FIREBASE_APP_ID']!,
-      messagingSenderId: dotenv.env['FIREBASE_MESSAGING_SENDER_ID']!,
-      projectId: dotenv.env['FIREBASE_PROJECT_ID']!,
+      appId: dotenv.env['1:449261236794:web:449261236794']!,
+      messagingSenderId: dotenv.env['449261236794']!,
+      projectId: dotenv.env['ambulancesewa-b1f26']!,
     ),
   );
 
