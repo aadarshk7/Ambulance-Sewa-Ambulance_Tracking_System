@@ -26,7 +26,7 @@ Future<void> main() async {
 
   await Firebase.initializeApp(
     options: FirebaseOptions(
-      apiKey: dotenv.env['FIREBASE_API_KEY']!,
+      apiKey: dotenv.env['AIzaSyCqj-IOPAmA8EBYdZmfeHziysnWElv_71U']!,
       appId: dotenv.env['FIREBASE_APP_ID']!,
       messagingSenderId: dotenv.env['FIREBASE_MESSAGING_SENDER_ID']!,
       projectId: dotenv.env['FIREBASE_PROJECT_ID']!,
