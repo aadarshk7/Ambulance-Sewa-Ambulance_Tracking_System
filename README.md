@@ -1,7 +1,10 @@
 # Ambulance Tracking System(Ambulance Sewa)
 <h2>Application Presentation video </h2>
-<img src="https://raw.githubusercontent.com/aadarshk7/Ambulance-Sewa-Ambulance_Tracking_System/https/github.com/aadarshk7/Ambulance-Sewa-Ambulance_Tracking_System/assets/ss/ytvideo.png">
-Video Link- https://youtu.be/qi6_CVRo38g
+<a href="https://youtu.be/qi6_CVRo38g" target="_blank">
+      <img src="https://raw.githubusercontent.com/aadarshk7/Ambulance-Sewa-Ambulance_Tracking_System/https/github.com/aadarshk7/Ambulance-Sewa-Ambulance_Tracking_System/assets/ss/ytvideo.png">
+    </a>
+<!-- <img src="https://raw.githubusercontent.com/aadarshk7/Ambulance-Sewa-Ambulance_Tracking_System/https/github.com/aadarshk7/Ambulance-Sewa-Ambulance_Tracking_System/assets/ss/ytvideo.png">
+Video Link- https://youtu.be/qi6_CVRo38g -->
 <br>
 </br>
 This application built using Flutter, Firebase, FirebasePhoneAuth, API, GoogleMap and other packages aims to revolutionize emergency response by integrating three essential Modules Admin Ambulance Driver and Users.
