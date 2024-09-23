@@ -28,8 +28,8 @@ class _ChoicePageState extends State<ChoicePage>
       vsync: this,
       duration: Duration(milliseconds: 400),
     );
-
-    // Start blinking animation for emergency
+     // Unused
+    // Start blinking animation for emergency 
     Timer.periodic(Duration(milliseconds: 350), (timer) {
       setState(() {
         _emergencyVisible = !_emergencyVisible;
