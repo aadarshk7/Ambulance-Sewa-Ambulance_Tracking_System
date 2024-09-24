@@ -258,7 +258,8 @@ class _LoginScreenState extends State<LoginScreen> {
                           // admin page shouldn't be there
                           MaterialPageRoute(
                                builder: (context) =>
-                                   SignUpPage()), // Replace with your SignupPage
+                                   SignUpPage()), 
+                          // Replace it with your SignupPage
 
                         );
                       },
