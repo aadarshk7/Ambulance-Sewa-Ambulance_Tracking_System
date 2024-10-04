@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 
 import '../models/directions.dart';
-
+//Appinfo with notify listeners 
 class AppInfo extends ChangeNotifier {
   Directions? userPickUpLocation, userDropOffLocation;
   int countTotalTrips = 0;
