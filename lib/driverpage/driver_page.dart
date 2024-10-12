@@ -9,7 +9,7 @@ import 'package:firebase_database/firebase_database.dart';
 import 'package:sliding_switch/sliding_switch.dart';
 
 import 'Message.dart';
-//Driver page
+//Driver page starts from are
 class DriverPage extends StatefulWidget {
   @override
   _DriverPageState createState() => _DriverPageState();
