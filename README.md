@@ -15,7 +15,7 @@ This application built using Flutter, Firebase, FirebasePhoneAuth, API, GoogleMa
 <h4>Users module is designed for patients and their families. Users can easily locate available ambulance on a live map, Reducing the stress and time typically spend on searching for help. Additionally the app includes messaging features that enables direct communication with ambulance drivers facilitating swift coordination and response.</h4>
 <p> <img src="https://raw.githubusercontent.com/aadarshk7/Ambulance-Sewa-Ambulance_Tracking_System/https/github.com/aadarshk7/Ambulance-Sewa-Ambulance_Tracking_System/assets/ss/userpage.gif" height = 444 width=222/> </p>
 <h2>DriverScreen</h2>
-<h4>Ambulance Driver Module empowers driver to share their live location. By simply logging and verifying with valid license into the app. Driver can broadcast their position. making it visible to users who are in urgent medical transport </h4>
+<h4>Ambulance Driver Module empowers driver to share their live location. By simply logging and verifying with valid license into the app. Driver can broadcast their position. making it visible to users who are in urgent medical transport. </h4>
 <p> <img src="https://raw.githubusercontent.com/aadarshk7/Ambulance-Sewa-Ambulance_Tracking_System/https/github.com/aadarshk7/Ambulance-Sewa-Ambulance_Tracking_System/assets/ss/userpage.gif" height = 444 width=222/> </p>
 <h2>AdminVerification</h2>
 <h4>Admin can insert, view update and delete the information of both ambulance drivers and users ensuring that the database is always up-to-date and accurate.</h4>
